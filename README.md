@@ -1,4 +1,4 @@
-### Learning python repository
+## Learning python repository
 
 Hi, I am Vinay, a Computer Science Student Who is attempting to get better at programming, this repository has simple/basic programs that I am writing in my quest to learn python
 
